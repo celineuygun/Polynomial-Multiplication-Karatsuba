@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstring>
 #include <math.h>
 #include "polynomial.hpp"
 
